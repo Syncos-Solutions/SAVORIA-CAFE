@@ -101,6 +101,4 @@ Copy code
 
 ---
 
-If you like — I can **inspect** the live site `https://savoria-zeta.vercel.app/`, **guess / infer a plausible full README.md** (with plausible pages & features) — so you only need to copy-paste (and maybe adjust little).  
-Do you want me to build that for you now?
-::contentReference[oaicite:4]{index=4}
+
